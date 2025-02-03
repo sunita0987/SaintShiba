@@ -622,9 +622,9 @@ th, td {
 th {
   background-color: #000;
 }
-/* tr:nth-child(even) {
+tr:nth-child(even) {
   background-color: #1a1a1a;
 }
 tr:hover {
   background-color: #333;
-} */
+}
